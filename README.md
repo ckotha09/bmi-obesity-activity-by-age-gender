@@ -17,4 +17,5 @@ This project evaluates the relationship between BMI, obesity, and physical activ
 - SVM performed the best with 99.9% accuracy.
 - Linear regression confirmed a positive relationship between BMI and obesity.
 
-
+## Acknowledgments
+This project was completed as part of the Health Data Science curriculum at Saint Louis University.
